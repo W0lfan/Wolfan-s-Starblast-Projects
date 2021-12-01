@@ -9,12 +9,7 @@ bot.remove_command('help')
 bot.remove_command('rules')
 
 
-#python3 /home/wolfan/Documents/My_bot/main.py
-#git add .
-# git commit -am "make it better"
-# git push heroku master
 
-#python C:\Users\Utilisateur\Documents\Codage\Thenbot\ThenbotBot\A_main.py
 status = [
     "Starblast (+help)",
     'Starblast modding (+help)',
