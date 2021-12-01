@@ -1,0 +1,2 @@
+            "1ce","2ce","3ce","4ce","5ce","6ce","7ce","8ce","9ce","10ce","king_ce","king_w_ce","v_ce"
+            "1ce","2ce","3ce","4ce","5ce","6ce","7ce","8ce","9ce","10ce","king_ce","king_w_ce","v_ce"
