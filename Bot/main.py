@@ -241,4 +241,4 @@ async def reset(ctx,user:discord.Member=None):
 
 
 
-bot.run("ODg3NzExMzE0NTkwNDM3NDM2.YUIHlg.yCD_P1UPvYBU8puleOlyQDXv-ec")
+bot.run("")
