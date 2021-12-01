@@ -11,7 +11,6 @@ bot.remove_command("help")
 bot.remove_command("credits")
 
 
-##python C:\Users\Utilisateur\Documents\Codage\Thenbot\Codes\images.py
 
 
 @bot.event
@@ -64,4 +63,4 @@ async def link(ctx, *name):
         await ctx.send(f"{link}{NameFirstCapitalize}")
         return
 
-bot.run("NzcyNDExNjk5NDgzMTE1NTMw.X56Scw.FjymzkJwuSzfU_-BNAjLFPT-Y64") 
+bot.run("") 
